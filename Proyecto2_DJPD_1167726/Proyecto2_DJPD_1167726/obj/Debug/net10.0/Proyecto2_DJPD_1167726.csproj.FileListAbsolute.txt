@@ -1,0 +1,14 @@
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\bin\Debug\net10.0\Proyecto2_DJPD_1167726.exe
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\bin\Debug\net10.0\Proyecto2_DJPD_1167726.deps.json
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\bin\Debug\net10.0\Proyecto2_DJPD_1167726.runtimeconfig.json
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\bin\Debug\net10.0\Proyecto2_DJPD_1167726.dll
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\bin\Debug\net10.0\Proyecto2_DJPD_1167726.pdb
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.AssemblyInfoInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.AssemblyInfo.cs
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.csproj.CoreCompileInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.dll
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\refint\Proyecto2_DJPD_1167726.dll
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.pdb
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\Proyecto2_DJPD_1167726.genruntimeconfig.cache
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto2_DJPD_1167726\Proyecto2_DJPD_1167726\obj\Debug\net10.0\ref\Proyecto2_DJPD_1167726.dll
